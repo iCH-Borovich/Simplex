@@ -1,0 +1,3 @@
+SOLUTION FOUND: multiple solutions
+Objective: z (optimal value)
+0	2	0	7	
